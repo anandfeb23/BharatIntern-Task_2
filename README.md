@@ -1,4 +1,4 @@
-# Netflix Clone Project
+# Netflix Clone Project [Live](https://netlifxclonebyanshu.netlify.app/)
 This project is a simplified clone of Netflix, focusing solely on the frontend user interface.
 
 # Technologies Used
